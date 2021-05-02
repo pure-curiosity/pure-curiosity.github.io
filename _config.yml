@@ -1,0 +1,15 @@
+# Site settings
+title: Pure Curiosity
+description: >-
+  Looking for your feedback :)
+baseurl: ""
+url: "https://pure-curiosity.github.io"
+github_username: pure-curiosity
+rss: "RSS"
+
+# Build settings
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
