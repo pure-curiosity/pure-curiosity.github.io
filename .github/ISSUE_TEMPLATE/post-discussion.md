@@ -2,7 +2,7 @@
 name: Post Discussion
 about: Default template for post discussion.
 title: ''
-labels: ''
+labels: 'discussion'
 assignees: ''
 
 ---
